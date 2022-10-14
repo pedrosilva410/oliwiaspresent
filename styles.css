@@ -64,6 +64,22 @@ p {
   background-size: cover;
 }
 
-.gift-img:hover {
-  background-image: url("./images/s1.webp");
+#gift-img-happy:hover {
+  background-image: url("./images/happy.gif");
+}
+
+#gift-img-hot:hover {
+  background-image: url("images/hot.gif");
+}
+
+#gift-img-genius:hover {
+  background-image: url("images/genius.gif");
+}
+
+#gift-img-badass:hover {
+  background-image: url("images/badass.gif");
+}
+
+#gift-img-cheers:hover {
+  background-image: url("images/cheers.gif");
 }
